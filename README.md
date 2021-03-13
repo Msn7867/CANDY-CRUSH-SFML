@@ -1,4 +1,4 @@
-#CANDY CRUSH
+#CANDY-CRUSH
 You will implement a single player game “Candy Crush” in C++. Here, a 2-D grid will be used for candies storage and the minimum size of grid will be 9×9. At start of the game the whole grid will be filled with the new candies by randomly selecting them. 
 The user must be provided with swapping options, so that he can swap two candies, if they lie side by side in same column, or row of grid. The target goal points and number of moves (swaps) should be set at start.
 Type of Candies and their corresponding points are listed below in the detailed PDF.  
